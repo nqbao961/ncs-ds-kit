@@ -1,0 +1,14 @@
+.mainContainer {
+  height: 100vh;
+  display: flex;
+}
+
+.navContainer {
+  width: 16rem;
+  flex: none;
+}
+
+.contentContainer {
+  flex-grow: 1;
+  padding: 3rem;
+}
